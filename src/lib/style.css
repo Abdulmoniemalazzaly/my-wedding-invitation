@@ -1,0 +1,11 @@
+
+.and-parent{
+    position: relative;
+
+}
+.and-wrapper{
+    position: absolute;
+    display: inline-block;
+    width: 50px;
+    color: #db2777;
+}
